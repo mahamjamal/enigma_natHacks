@@ -1,3 +1,6 @@
 # enigma_natHacks
 natHacks 2023
- # brain-lock will be the name of our app 
+
+BrainLock 
+
+A mood tracking journal which uses brainwave authentication for login.
